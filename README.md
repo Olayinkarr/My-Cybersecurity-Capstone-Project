@@ -2,7 +2,7 @@
 
 A cybersecurity capstone project that turns technical findings from two intentionally vulnerable machines, **Kioptrix** and **Metasploitable 2**, into a business-focused security report: what is vulnerable, why it matters, what risk it creates, and which controls and policies would fix it.
 
-**Author:** Joseph Olayinka Olaoluwa (Group 18)
+**Author:** Joseph Olayinka Olaoluwa
 
 ## Scenario
 
